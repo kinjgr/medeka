@@ -3,12 +3,29 @@
     <title>Medeka</title>
     <link href="https://kinjgr.github.io/medeka/feed.xml" rel="self" />
     <link href="https://kinjgr.github.io/medeka" />
-    <updated>2023-06-22T12:37:11+07:00</updated>
+    <updated>2023-07-12T10:45:42+07:00</updated>
     <author>
         <name>Medeka</name>
     </author>
     <id>https://kinjgr.github.io/medeka</id>
 
+    <entry>
+        <title>Fit for Purpose: Contextualizing Product Reviews</title>
+        <author>
+            <name>Medeka</name>
+        </author>
+        <link href="https://kinjgr.github.io/medeka/fit-for-purpose-contextualizing-product-reviews.html"/>
+        <id>https://kinjgr.github.io/medeka/fit-for-purpose-contextualizing-product-reviews.html</id>
+            <category term="Product Review"/>
+
+        <updated>2023-07-12T10:45:42+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Unleashing the Power of Personal Usage Scenarios and Contexts When it comes to making informed purchasing decisions, product reviews have become an essential tool for consumers worldwide. These reviews provide valuable insights into the features, pros, and cons of a product, helping potential buyers assess&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Top-rated Products in the Market: Reviewing the Best Options</title>
         <author>
